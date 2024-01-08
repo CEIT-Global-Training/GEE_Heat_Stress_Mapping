@@ -9,4 +9,4 @@ Kenya: *Consider using a single province\
 Mongolia: [67.5, 41.5, 120, 52.5] *Consider using a single aimag\
 Nigeria: *Consider using a single state\
 Pakistan: [60.5, 23, 75, 35]\
-*Apologies for any incorrect coordinates. Please review them to ensure they are appropriate for your use. Coordinates should be a little past the border.
+*Apologies for any incorrect coordinates. Please review them to ensure they are appropriate for your use. Coordinates should be a little past the border.*
