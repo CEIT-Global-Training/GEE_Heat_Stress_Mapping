@@ -12,7 +12,7 @@ Map.setCenter(88.5, 26.5, 6.0); // Adjust coordinates as needed
 var CountryOfInterest = ee.FeatureCollection("USDOS/LSIB_SIMPLE/2017").filter('country_na=="Bhutan"');
 var styleParams = {
   fillColor:'#FFFFFF00', //This makes the inside of the country white (FFFFFF) and clear (00)
-  color: "black", //Black border
+  color: "black", //Black border. If you can't see the black over a dark color, try "grey"
   width:1.0, //Border thickness
 };
 var CountryBorder=CountryOfInterest.style(styleParams); //Apply the style to the selected country
