@@ -1,7 +1,7 @@
 # GEE_Heat_Stress_Mapping
 Mapping heat stress with Google Earth Engine
 
-##General coordinates for each country\
+## General coordinates for each country\
 Bangladesh: [87.5, 20.5, 93, 27]\
 Bhutan: [88.5, 26.5, 92.5, 28.5]\
 India: *Consider using a single state\
