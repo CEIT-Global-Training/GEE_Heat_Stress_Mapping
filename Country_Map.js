@@ -3,12 +3,10 @@
 //This was written for Bhutan but can be adjusted for your country of interest 
 //If you are in a large country, you may want to look at the Regional Map code RegionalMap.js
 
-// Define a smaller region of interest (ROI) around a specific area in Bhutan
-var smallerROI = ee.Geometry.Rectangle([88.5, 26.5, 92.5, 28.5]); // Adjust coordinates as needed
-
+// Move map so not centered on the US
 Map.setCenter(88.5, 26.5, 6.0); // Adjust coordinates as needed
 
-//Border outlined in Black
+//Border outlined in black
 var CountryOfInterest = ee.FeatureCollection("USDOS/LSIB_SIMPLE/2017").filter('country_na=="Bhutan"');
 var styleParams = {
   fillColor:'#FFFFFF00', //This makes the inside of the country white (FFFFFF) and clear (00)
