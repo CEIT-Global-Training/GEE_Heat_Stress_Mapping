@@ -1,7 +1,7 @@
 # GEE_Heat_Stress_Mapping
 Mapping heat stress with Google Earth Engine
 
-All short tutorials can be found on [YouTube](https://www.youtube.com/watch?v=7j5-P7jU9Rg&list=PLHXFxhiiuFnC8-DfiDl_RFaySbQyRpskn&index=1). There are transcripts in the descriptions.
+Short tutorials can be found on [YouTube](https://www.youtube.com/watch?v=7j5-P7jU9Rg&list=PLHXFxhiiuFnC8-DfiDl_RFaySbQyRpskn&index=1). There are transcripts in the descriptions.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7j5-P7jU9Rg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
