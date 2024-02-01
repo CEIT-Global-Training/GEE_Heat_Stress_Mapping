@@ -1,16 +1,16 @@
-Country?,University?,Lat,Lon
-Bangladesh?,University of Dhaka?,23.73,90.39
-Bhutan?,Royal University of Bhutan?,27.48,89.63
-Australia?,Curtin University?,-31.96,115.8
-Canada?,Calgary University?,51.08,-114.13
-Ghana?,Ghana Institute of Management and Public Administration (GIMPA)?,5.63,-0.2
-India?,Cotton University?,26.19,91.75
-Kenya?,Strathmore University ?,-1.31,36.81
-Mongolia?,University of Science Technology?,47.92,106.92
-Nepal?,Tribhuvan University?,28.19,83.99
+Country,University,Lat,Lon
+Bangladesh,University of Dhaka,23.73,90.39
+Bhutan,Royal University of Bhutan,27.48,89.63
+Australia,Curtin University,-31.96,115.8
+Canada,Calgary University,51.08,-114.13
+Ghana,Ghana Institute of Management and Public Administration (GIMPA),5.63,-0.2
+India,Cotton University,26.19,91.75
+Kenya,Strathmore University,-1.31,36.81
+Mongolia,University of Science Technology,47.92,106.92
+Nepal,Tribhuvan University,28.19,83.99
 New Zealand,University of Canterbury,-43.52,172.58
-Nigeria?,University of Nigeria Nsukka?,6.87,7.41
-Pakistan?,Pakistan Institute of Development Economics?,33.75,73.14
-Rwanda?,University of Rwanda?,-1.96,30.07
-South Africa?,University of Pretoria?,-25.75,28.23
-Sri Lanka?,University of Peradeniya?,7.25,80.6
+Nigeria,University of Nigeria Nsukka,6.87,7.41
+Pakistan,Pakistan Institute of Development Economics,33.75,73.14
+Rwanda,University of Rwanda,-1.96,30.07
+South Africa,University of Pretoria,-25.75,28.23
+Sri Lanka,University of Peradeniya,7.25,80.6
