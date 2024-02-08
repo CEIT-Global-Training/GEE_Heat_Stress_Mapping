@@ -8,7 +8,7 @@ var endDate = ee.Date('1990-01-01'); //day after the last day you want to consid
 
 
 // ------Set up functions-----------------------------
-// A function to retrive maximum temperature reanlysis data
+// A function to retrieve maximum temperature reanalysis data
 // Only for the small time and area that you defined above
 // Output is in Kelvin
 var era5 = ee.ImageCollection('ECMWF/ERA5_LAND/DAILY_AGGR')
@@ -37,7 +37,7 @@ var era5_tempMax_oC = era5.map(Kelvin_to_Celsius);
 // Move map so not centered on the US
 Map.setCenter(88.5, 26.5, 6.0); //Lat, lon, zoom level
 
-// Create a color pallete
+// Create a color palette
 var vis2mt_oC = {
   min: -25,
   max: 60,
