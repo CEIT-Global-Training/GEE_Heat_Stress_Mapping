@@ -1,6 +1,6 @@
 # GEE_Heat_Stress_Mapping
 Mapping heat stress with Google Earth Engine (GEE)
-Just a test ////
+Just a test\\\\
 Short GEE tutorials can be found on [YouTube](https://www.youtube.com/watch?v=7j5-P7jU9Rg&list=PLHXFxhiiuFnC8-DfiDl_RFaySbQyRpskn&index=1). There are transcripts in the descriptions.
 
 ## General coordinates for each country\
