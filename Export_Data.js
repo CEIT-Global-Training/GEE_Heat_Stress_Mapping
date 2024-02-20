@@ -9,9 +9,10 @@ function rasterExport(layer, name) {
   });
 } 
 
+//rasterExport(hot_count_annual,"discriptive_file_name")
 
 // Save the image to an Earth Engine asset.
-function save_REMO(layer, name) {
+function rasterSaveEE(layer, name) {
   Export.image.toAsset({
     image: layer,
     description: 'SingleRasterToAsset',
@@ -25,3 +26,5 @@ function save_REMO(layer, name) {
     }
   });
 }
+
+//rasterSaveEE(hot_count_annual,"discriptive_file_name")
